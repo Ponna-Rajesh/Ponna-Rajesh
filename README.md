@@ -14,9 +14,7 @@ I love code!
 ### Skills
 * Good knowledge on web pages dvelopment,creating ststic web pages that are displayed on the browser using <b style="color: blue;">HTML5</b>.
 * Good knowledge in the use of<span style="color: blue; font-weight: bold;"> **CSS3** </span>by describing the look and formatting of a document which is written in the markup langauage.
-* Good knowledge in understanding of <b style="color:blue">ES6 Features </b>of JavaScript.
 * <b style="color:blue">ES6 Features </b>: Experience with modern JavaScript features introduced in <b>ECMAScript 6 <b/>and later.
-                - Familiarity with arrow functions, template literals, destructuring, and spread/rest operators.
 * Representation of data types in <b style="color:blue">JavaScript</b>: Objects,Function, Arrays.
 * <b>DOM Manipulation</b>: Strong skills in manipulating the <b style="color:blue">Document Object Model (DOM)</b>. to create dynamic and interactive web pages.
 <p align="left">
