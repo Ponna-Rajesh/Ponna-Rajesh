@@ -10,7 +10,7 @@ I love code!
 * ✉️  You can contact me at [rajeshponna78@gmail.com](mailto:rajeshponna78@gmail.com)
 * 🧠  I'm learning React JS .
 * 🤝  I'm open to collaborating on JavaScript and React JS
-* ### Career Objective:
+### Career Objective
 * "I am a dedicated Frontend Web Developer with a passion for creating visually stunning and user-friendly websites. Leveraging a solid foundation in HTML, CSS, and JavaScript.I'm looking for a role in a creative team where I can learn more, stay updated on new technologies, and be a crucial part of creating fantastic digital experiences."
 
 ### Skills
