@@ -12,7 +12,7 @@ I love code!
 * 🤝  I'm open to collaborating on JavaScript and React JS
 
 ### Skills
-* Good knowledge on web pages dvelopment,creating ststic web pages that are displayed on the browser using <b style="color:blue;">HTML5</b>.
+* Good knowledge on web pages dvelopment,creating ststic web pages that are displayed on the browser using <b style="color: blue;">HTML5</b>.
 * Good knowledge in the use of<b> CSS3 </b>by describing the look and formatting of a document which is written in the markup langauage.
 * Good knowledge in understanding of <b style="color:blue">ES6 Features </b>of JavaScript.
 * Representation of data types in <b style="color:blue">JavaScript</b>: Objects,Function, Arrays.
