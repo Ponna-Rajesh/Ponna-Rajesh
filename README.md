@@ -11,7 +11,7 @@ I love code!
 * 🔗 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/ponna-rajesh-8229302a8/)
 * 🧠  I'm learning React JS .
 * 🤝  I'm open to collaborating on JavaScript and React JS
-### Career Objective:
+### CAREER OBJECTIVE:
 * "I am a dedicated Frontend Web Developer with a passion for creating visually stunning and user-friendly websites. Leveraging a solid foundation in HTML, CSS, and JavaScript.I'm looking for a role in a creative team where I can learn more, stay updated on new technologies, and be a crucial part of creating fantastic digital experiences."
 
 ### TECHNICAL SUMMARY:
