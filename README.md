@@ -8,6 +8,7 @@ Frontend-WebDeveloper
 I love code!
 * 🌍  I'm based in INDIA - Hyderabad
 * ✉️  You can contact me at [rajeshponna78@gmail.com](mailto:rajeshponna78@gmail.com)
+* * 🔗 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/ponna-rajesh-8229302a8/)
 * 🧠  I'm learning React JS .
 * 🤝  I'm open to collaborating on JavaScript and React JS
 ### Career Objective
