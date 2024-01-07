@@ -14,7 +14,7 @@ I love code!
 ### Career Objective
 * "I am a dedicated Frontend Web Developer with a passion for creating visually stunning and user-friendly websites. Leveraging a solid foundation in HTML, CSS, and JavaScript.I'm looking for a role in a creative team where I can learn more, stay updated on new technologies, and be a crucial part of creating fantastic digital experiences."
 
-### Skills
+### TECHNICAL SUMMARY:
 * Good knowledge on web pages dvelopment,creating stastic web pages that are displayed on the browser using <b style="color: blue;">HTML5</b>.
 * Good knowledge in the use of<span style="color: blue; font-weight: bold;"> **CSS3** </span>by describing the look and formatting of a document which is written in the markup langauage.
 * <b style="color:blue">ES6 Features </b>: Experience with modern JavaScript features introduced in <b>ECMAScript 6 <b/>and later.
@@ -23,6 +23,7 @@ I love code!
    - Solid understanding of functions, closures, and callbacks.
 
 * <b>DOM Manipulation</b>: Strong skills in manipulating the <b style="color:blue">Document Object Model (DOM)</b>. to create dynamic and interactive web pages.
+  ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
